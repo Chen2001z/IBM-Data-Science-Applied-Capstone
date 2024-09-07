@@ -9,7 +9,7 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 # Questions To Be Answered
 1. How variables such as payload mass, launch site, number of flights, orbits, affect the success of the first stage landing?
 2. Does the rate of successful landings increase over the years?
-3. What is the best predictive model for successful lannding (binary classification)
+3. What is the best predictive model for successful landing (binary classification)
 
 # Methodology
 
